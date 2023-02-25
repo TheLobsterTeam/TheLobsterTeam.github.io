@@ -1,12 +1,14 @@
 #################### default parameters ################################
-logo = "images/logo.png"
+logo = "images/Logo.svg"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+image = "images/Logo.svg" # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
+
+favicon = "images/Logo_No_Text.svg"
 
 # Type of pages to be rendered with a blog view
 blogCategoryType = "category"
